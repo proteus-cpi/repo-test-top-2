@@ -4,9 +4,9 @@
     <include name="common.xml"/>  
 
   <project path="proj-top"
-           name="proteus-cpi/repo-test-top.git" 
+           name="proteus-cpi/repo-top-2.git" 
            remote="github-upstream" 
-           revision="master" >
+           revision="main" >
       
       <linkfile src="scripts/source-me-bash-env.sh" dest="source-2-setup-env.sh"/>
       <linkfile src="misc/templates_plcaeholders/Readme.buildfolder.md" dest="build/Readme.md"/>
