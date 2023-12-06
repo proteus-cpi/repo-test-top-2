@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <!-- include all the common repositories, we just want to define the kernel -->
+    <include name="common.xml"/>  
         
 </manifest>
